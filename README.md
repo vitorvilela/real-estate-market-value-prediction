@@ -1,4 +1,4 @@
-# real-estate-market-value-prediction
+# Prediction of real estate market value
 
 
-A short-term real estate market value data analysis and predictive model prospection.
+A short-term data analysis and predictive model prospection of real estate market value.
